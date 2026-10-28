@@ -49,10 +49,3 @@ weather-app-async-js/
 
 License
 MIT
-
-**Commit it:**
-
-```bash
-git add README.md
-git commit -m "docs: add project readme with setup and api key instructions"
-```
